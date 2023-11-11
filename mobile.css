@@ -4,6 +4,19 @@
     main {
         min-width: 100vw;
         min-height: 100vh;
+        font-family: 'Open Sans';
+    }
+
+    h1 {
+        font-size: 1.625rem;
+    }
+
+    h2 {
+        font-size: 1.375rem;
+    }
+
+    h3 {
+        font-size: 0.938rem;
     }
 
     #sect1 {
@@ -43,7 +56,8 @@
     #hero p {
         margin: 0 auto;
         width: 85%;
-        font-size: 18px;
+        font-size: 0.9375rem;
+        line-height: 1.5rem;
     }
 
     #hero button {
@@ -63,17 +77,13 @@
         flex-direction: column;
     }
 
-    .card h2 {
-        font-size: 24px;
-    }
 
     #p1,
     #p2,
     #p3 {
-        font-family: "Poppins";
-        font-size: 14px;
+        font-family: "Open Sans";
+        font-size: 0.938rem;
         opacity: 0.8;
-        font-weight: 400;
         width: unset;
     }
 
@@ -88,9 +98,6 @@
         padding: 3rem 2rem 3rem 2rem;
     }
 
-    #solo-card h3 {
-        font-size: 16px;
-    }
 
     #solo-card button {
         padding: 1rem 2rem 1rem 2rem;
