@@ -16,7 +16,7 @@
     }
 
     h3 {
-        font-size: 0.938rem;
+        font-size: 1.094rem;
     }
 
     #sect1 {
@@ -61,6 +61,7 @@
     }
 
     #hero button {
+        padding: 1rem 3rem;
         align-self: center;
     }
 
@@ -68,7 +69,7 @@
         flex-direction: column-reverse;
         justify-content: center;
         text-align: center;
-        padding: 48px 30px 48px 30px;
+        padding: 3rem 1.875rem;
         gap: 4rem;
         align-items: unset;
     }
@@ -95,12 +96,12 @@
     #solo-card {
         width: 90%;
         padding: unset;
-        padding: 3rem 2rem 3rem 2rem;
+        padding: 3rem 1rem;
     }
 
 
     #solo-card button {
-        padding: 1rem 2rem 1rem 2rem;
+        padding: 1rem 3rem;
         box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
     }
 
