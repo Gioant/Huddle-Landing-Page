@@ -22,6 +22,7 @@
 body {
     min-height: 100vh;
     font-size: 18px;
+    font-family: 'Open-Sans';
 }
 
 main {
@@ -50,7 +51,6 @@ header img {
 }
 
 header>button {
-    font-family: "Poppins";
     font-weight: 700;
     padding: 12px 48px 12px 48px;
     border-style: none;
@@ -99,7 +99,6 @@ button:hover {
     padding: 1rem 4rem 1rem 4rem;
     border-radius: 2rem;
     background-color: var(--pink);
-    font-family: "Poppins";
     color: white;
     border-style: none;
 }
@@ -132,6 +131,7 @@ button:hover {
 }
 
 .card p {
+    font-family: 'Open-Sans';
     color: var(--grayBlue);
     line-height: 1.5;
 }
@@ -193,6 +193,7 @@ footer {
 }
 
 #solo-card button {
+    font-family: 'Open Sans';
     color: white;
     background-color: var(--pink);
     padding: 1.25rem 6rem 1.25rem 6rem;
