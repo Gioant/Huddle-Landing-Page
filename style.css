@@ -86,7 +86,9 @@ button:hover {
 }
 
 #hero p {
-    line-height: 1.25;
+    font-size: 1rem;
+    font-family: 'Open Sans';
+    line-height: 1.5;
 }
 
 #hero img {
@@ -158,6 +160,13 @@ button:hover {
 
 #p3 {
     width: 80%;
+}
+
+#p1,
+#p2,
+#p3 {
+    font-size: 1rem;
+    font-family: 'Open Sans';
 }
 
 #sect2,
